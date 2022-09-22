@@ -1,0 +1,228 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", sans-serif;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+html {
+  height: 10px;
+}
+.logo {
+  height: 8.4rem;
+  width: 8.4rem;
+  padding-left: 2.4rem;
+  padding-top: 2.4rem;
+}
+.targeted-a {
+  border-bottom: 2px solid red;
+  color: red;
+}
+.main-header {
+  background-image: url(https://media.istockphoto.com/photos/hindu-god-krishna-picture-id175454330?b=1&k=20&m=175454330&s=170667a&w=0&h=APJspAKRzAa42u8efdrVcimQuALY3m1wg9zkXLH1ejE=);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.main-flex {
+  display: flex;
+  gap: 40rem;
+}
+.main-ul {
+  display: flex;
+  gap: 2.4rem;
+  padding-top: 4.2rem;
+}
+.main-a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+.main-a:hover,
+.main-a:active {
+  color: red;
+  border-bottom: 2px solid red;
+}
+.main-h1 {
+  color: #fff;
+  text-align: center;
+}
+.main-h1 {
+  color: white;
+  text-align: center;
+  padding-top: 3.8rem;
+  font-size: 4.8rem;
+  white-space: 1px;
+  width: 84rem;
+}
+.main-p {
+  color: #dfe3eb;
+  text-align: center;
+  line-height: 5;
+  font-size: 1.4rem;
+}
+.main-btn {
+  margin-left: 38.8rem;
+  padding: 1.2rem 1.6rem;
+  background-color: #0bb4aa;
+  border: 2px solid white;
+  color: white;
+  font-size: 1.2rem;
+}
+.main-btn:hover {
+  background-color: orange;
+}
+.main-head {
+  height: 30vh;
+  background-color: black;
+  background-image: url();
+}
+.blog-h1 {
+  text-align: center;
+  margin-top: 2.4rem;
+  cursor: pointer;
+}
+.extra-font-size {
+  font-size: 2.4rem;
+}
+.extra-font-size:hover {
+  color: orange;
+}
+.container-blog {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 3.4rem;
+}
+.love {
+  text-align: center;
+}
+.blog-p {
+  text-align: center;
+  font-weight: 100;
+  margin-top: 1.6rem;
+}
+.footer-blog {
+  background-color: black;
+  height: 15vh;
+  margin-top: 1.6rem;
+}
+.p-lover {
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2.4rem;
+}
+.a-button {
+  text-decoration: none;
+  color: #fff;
+}
+.main-li {
+  list-style: none;
+}
+.about-us-h1 {
+  text-align: center;
+  margin-top: 2.4rem;
+}
+.main-heading {
+  background-image: url(https://media.istockphoto.com/photos/hindu-god-krishna-picture-id175454330?b=1&k=20&m=175454330&s=170667a&w=0&h=APJspAKRzAa42u8efdrVcimQuALY3m1wg9zkXLH1ejE=);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.contact {
+  color: #fff;
+  font-size: 2.6rem;
+  text-align: center;
+}
+.container-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+}
+.contain {
+  margin-top: 7.8rem;
+}
+.logo {
+  height: 7.8rem;
+  width: 7.8rem;
+}
+.instagram:hover {
+  height: 9.8rem;
+  width: 9.8rem;
+}
+.linkedin:hover {
+  height: 9.8rem;
+  width: 9.8rem;
+}
+.gmail:hover {
+  height: 9.8rem;
+  width: 9.8rem;
+}
+.facebook:hover {
+  height: 9.8rem;
+  width: 9.8rem;
+}
+.twitter:hover {
+  height: 9.8rem;
+  width: 9.8rem;
+}
+.a-button:hover {
+  font-weight: 400;
+}
+.container-about-us {
+  background-color: #ff9c38;
+  width: 72rem;
+  margin: 0 auto;
+  height: 22rem;
+  border-radius: 9px;
+  display: flex;
+}
+
+.aryan {
+  height: 22rem;
+  border-radius: 9px;
+}
+.container-text-box {
+  margin-top: 4.2rem;
+}
+.text {
+  color: #000000;
+  font-size: 1.2rem;
+  margin-left: 1.2rem;
+}
+.about-us-h1 {
+  margin-bottom: 1.2rem;
+}
+.img-iskcon {
+  margin-left: 38rem;
+  margin-top: 2.4rem;
+}
+.main-h1-iskcon {
+  text-align: center;
+  margin-top: 1.8rem;
+}
+.container-iskcon {
+  margin: 0 auto;
+  width: 65rem;
+}
+.p-iskcon {
+  line-height: 1.5;
+}
+.main-services {
+  height: 42rem;
+}
+.h1-services {
+  text-align: center;
+}
+.container-services {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
